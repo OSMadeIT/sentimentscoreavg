@@ -1,2 +1,3 @@
 # sentimentscoreavg
-Read from msft csv file and create new file with relevant cols and score average
+Read the provided msft.csv file
+Create new file with relevant columns then include new column with the average score, from date, by tiker...
